@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0caf5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Rodrigo;Graduated+in+Computer+Science+from+Estácio;Starting+my+career+as+a+front-end+developer;Web+and+front-end+development+—+continuous+learning;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="45%" height="190px" src="https://github-readme-stats.zcy.dev/api?username=ThiagoRod-48&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ThiagoRod-48 github stats"/> 
+  <img width="46%" height="190px" src="https://github-readme-stats.zcy.dev/api?username=ThiagoRod-48&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ThiagoRod-48 github stats"/> 
   <img width="41%" height="190px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ThiagoRod-48&layout=compact&hide_border=true&theme=tokyonight" /> <br><br>
 </div>
 
